@@ -2,13 +2,14 @@
   <!-- Sube tu banner a tu repo de perfil y actualiza la URL de abajo -->
   <img src="https://github.com/jfrf98/jfrf98/blob/main/Francisco%20Fabre.png" width="800" alt="Banner"/>
 
-  <br><br>
+  <br>
 
   <a href="https://www.linkedin.com/in/francisco-rodriguez-fabre/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-
+<br/>
   <img src="https://komarev.com/ghpvc/?username=jfrf98&color=blueviolet&style=flat-square" alt="Profile Views"/>
+
 </div>
 **📍 Puebla, México**  
 ---
