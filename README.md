@@ -18,9 +18,7 @@
 ### :man_technologist: About me :
 IT enthisiast and developing new skills towards Data Scientis role and Data Analitycs. I'm currently working in TCS as a QA Tester and prepearing to become a full Data Scientist. <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 * :telescope: I'm currently at the last stage of the Data Science Bootcamp in TripleTen, exited to apply my skills and knowledge which fits perfectly with my knowledge in marketing. :muscle:
-
 * :heartbeat: I love new challenges, being and thinking out of the box, which helps on problem resolution and keeps my skills updated. :detective:
-
 * :mailbox: ¿Want to know me? [![Linkedin Badge](https://img.shields.io/badge/-Francisco-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-rodriguez-fabre/)
 
 * :e-mail: rodriguezfabre.josefrancisco@gmail.com
@@ -65,6 +63,14 @@ I'm currently strengthening my knmowledge in advance statistics, hypothesis, *A/
 > Repos públicos en este portafolio: navega por carpetas y READMEs para ver metodología, resultados y *next steps*.
 
 ---
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jfrf98&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jfrf98&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 ### 🔥 Statistics
 <p>
