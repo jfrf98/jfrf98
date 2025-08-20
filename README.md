@@ -19,7 +19,8 @@
 ### :man_technologist: About me :
 IT enthisiast and developing new skills towards Data Scientis role and Data Analitycs. I'm currently working in TCS as a QA Tester and prepearing to become a full Data Scientist. <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 * :telescope: I'm currently at the last stage of the Data Science Bootcamp in TripleTen, exited to apply my skills and knowledge which fits perfectly with my knowledge in marketing. :muscle:
-* :heartbeat: I love new challenges, being and thinking out of the box, which helps on problem resolution and keeps my skills updated. :detective:
+* :heartbeat: I love new challenges, being and thinking out of the box, which helps on problem resolution and keeps my skills updated.
+* :detective: I'm starting an internship as data scientist at DATAV, a big data company from my city. Looking forward to apply my skills and abilities. https://www.datav.com.mx/ 👀
 * :mailbox: ¿Want to know me? [![Linkedin Badge](https://img.shields.io/badge/-Francisco-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-rodriguez-fabre/)
 
 * :e-mail: rodriguezfabre.josefrancisco@gmail.com
@@ -76,18 +77,7 @@ I'm currently strengthening my knmowledge in advance statistics, hypothesis, *A/
 </a>
 </p>
 
-### 🔥 Statistics
-<p>
-  <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=jfrf98&theme=dark&background=000000" alt="GitHub Streak"/>
-  </a>
-</p>
 
-<p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfrf98&layout=compact&theme=vision-friendly-dark" alt="Top Langs"/>
-  </a>
-</p>
 
 ---
 
