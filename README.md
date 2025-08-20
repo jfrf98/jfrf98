@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <!-- Sube tu banner a tu repo de perfil y actualiza la URL de abajo -->
-  <img src="https://raw.githubusercontent.com/jfrf98/jfrf98/main/assets/banner-linkedin.png" width="800" alt="Banner"/>
+  <img src="https://github.com/jfrf98/jfrf98/blob/main/Francisco%20Fabre.png" width="800" alt="Banner"/>
 
   <br><br>
 
