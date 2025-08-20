@@ -61,7 +61,10 @@ I'm currently strengthening my knmowledge in advance statistics, hypothesis, *A/
 - **Megaline ML** — User behavior patterns and predictive models with A/B testing to identify the most accurate model.
 
 > Public repos in this portfolio: go through the folder and README files to see th methodology, results and *next steps*.
-> Repos públicos en este portafolio: navega por carpetas y READMEs para ver metodología, resultados y *next steps*.
+
+### 📌 Featured Projects
+- [**Portafolio**](https://github.com/jfrf98/portafolio) — Colección de proyectos de Data Science y análisis de datos.
+
 
 ---
 ### ⚙️ &nbsp;GitHub Analytics
