@@ -63,8 +63,8 @@ I'm currently strengthening my knmowledge in advance statistics, hypothesis, *A/
 
 > Public repos in this portfolio: go through the folder and README files to see th methodology, results and *next steps*.
 
-### 📌 Featured Projects
-- [**Portafolio**](https://github.com/jfrf98/portafolio) — Colección de proyectos de Data Science y análisis de datos.
+### 📌  Projects
+- [**Portfolio**](https://github.com/jfrf98/portafolio) — Data Science and Data Analytics project collection. 💼
 
 
 ---
