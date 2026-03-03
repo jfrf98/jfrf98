@@ -41,31 +41,53 @@ I'm currently strengthening my knmowledge in advance statistics, hypothesis, *A/
   <img src="https://skillicons.dev/icons?i=html" />
 </p>
 
-**Data Stack (via badges):**  
+## 🛠 Technical Data Stack (via badges):**  
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/> 
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=plotly&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/> 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-**QA / Pruebas:**  
-<img src="https://img.shields.io/badge/ALM-0b5fff?style=flat&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white"/>
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-00C853?style=for-the-badge)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+
+![Time Series](https://img.shields.io/badge/Time%20Series-4CAF50?style=for-the-badge)
+![Forecasting](https://img.shields.io/badge/Forecasting-009688?style=for-the-badge)
+![ARIMA](https://img.shields.io/badge/ARIMA-673AB7?style=for-the-badge)
+
+![ETL](https://img.shields.io/badge/ETL-607D8B?style=for-the-badge)
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-795548?style=for-the-badge)
+![Data Validation](https://img.shields.io/badge/Data%20Validation-3F51B5?style=for-the-badge)
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-9C27B0?style=for-the-badge)
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
+## 🧪 QA & Testing Skills
+
+![Manual QA](https://img.shields.io/badge/Manual%20QA-0A66C2?style=for-the-badge)
+![Test Case Design](https://img.shields.io/badge/Test%20Case%20Design-1976D2?style=for-the-badge)
+![Regression Testing](https://img.shields.io/badge/Regression%20Testing-1E88E5?style=for-the-badge)
+![UAT](https://img.shields.io/badge/UAT-2196F3?style=for-the-badge)
+![Log Analysis](https://img.shields.io/badge/Log%20Analysis-4527A0?style=for-the-badge)
+![API Testing](https://img.shields.io/badge/API%20Testing-FF5722?style=for-the-badge)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-00897B?style=for-the-badge)
+
 
 ---
 
 ### 📌 Featured Projects
-- **Megaline Plans Analysis (Surf vs Ultimate)** — EDA, revenue per user, hypothesis testing, and business recommendations.
-- **Video Game Sales (2016)** — Trends by platform/genre, correlations, visualizations, and conclusions for marketing.
-- **Streamlit Apps** — Interactive dashboards to explore datasets and communicate insights (basic).
-- **Megaline ML** — User behavior patterns and predictive models with A/B testing to identify the most accurate model.
+- **Sweet Lift Taxi Demand Forecasting** — time series resampling, seasonality analysis, feature engineering, and ML forecasting to predict next-hour taxi orders (RMSE ≤ 48). [**Repository**](https://github.com/jfrf98/SweetLiftTaxi)
+- **Rusty Bargain Used Car Price Prediction** — data cleaning/outlier handling, model benchmarking (accuracy vs speed), and price prediction with tree-based models (LightGBM as best tradeoff). [**Repository**](https://github.com/jfrf98/RustyBargain)
 
-> Public repos in this portfolio: go through the folder and README files to see th methodology, results and *next steps*.
-
-### 📌  Projects
-- [**Portfolio**](https://github.com/jfrf98/portafolio) — Data Science and Data Analytics project collection. 💼
-
+> Public repos in agter each project: go through the folder and README files to see the methodology, results and *next steps*.
 
 ---
 ### ⚙️ &nbsp;GitHub Analytics
@@ -82,7 +104,7 @@ I'm currently strengthening my knmowledge in advance statistics, hypothesis, *A/
 ---
 
 ### 🤝 Stay in touch
-- LinkedIn: **/francisco-rodriguez-fabre**  
+- LinkedIn: **/franciscorodriguez-datascientist/**  
 - Email: **rodriguezfabre.josefrancisco@gmail.com**
 
 > *Thanks for passing by. Always open to colaborate in Data projects.* ✨
