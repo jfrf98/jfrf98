@@ -11,7 +11,8 @@
   <img src="https://komarev.com/ghpvc/?username=jfrf98&color=blueviolet&style=flat-square" alt="Profile Views"/>
 
 </div>
-**📍 Puebla, México**  
+📍Puebla, México  
+
 ---
 
 <div id="about" align="left">
