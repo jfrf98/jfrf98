@@ -18,7 +18,7 @@
 <div id="about" align="left">
 
 ### :man_technologist: About me :
-IT enthisiast and developing new skills towards Data Scientis role and Data Analitycs. I'm currently working in TCS as a QA Tester and prepearing to become a full Data Scientist. <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+IT enthusiast and developing new skills towards Data Scientis role and Data Analitycs. I'm currently working in TCS as a QA Tester and prepearing to become a full Data Scientist. <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 * :telescope: I'm currently at the last stage of the Data Science Bootcamp in TripleTen, exited to apply my skills and knowledge which fits perfectly with my knowledge in marketing. :muscle:
 * :heartbeat: I love new challenges, being and thinking out of the box, which helps on problem resolution and keeps my skills updated.
 * :detective: I'm starting an internship as data scientist at DATAV, a big data company from my city. Looking forward to apply my skills and abilities. https://www.datav.com.mx/ 👀
